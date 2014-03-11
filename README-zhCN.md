@@ -671,6 +671,8 @@ Rails 是一个坚持己见的框架，而这也是一份坚持己见的指南�
 * [sunspot](https://github.com/sunspot/sunspot) - 基于 SOLR 的全文检索引擎。
 * [grape](https://github.com/intridea/grape) - 基于Rack的类REST(REST-like) API微框架，也可以作为现有框架的补充（例如：Rails和Sinatra），非常适合构建API。
 * [grape-entity](https://github.com/intridea/grape-entity) - 为API框架增加实体(Entity)，Grape实体建立在对象模型之上，聚焦于API外观(facade)。
+* [rubocop](https://github.com/bbatsov/rubocop) - rubocop是一个Ruby静态代码分析器。
+* [omniauth](https://github.com/intridea/omniauth) - Omniauth是一个为Web应用程序提供标准化Multi-Provider身份认证的类库。
 
 这不是完整的清单，以及其它的 gem 也可以在之后加进来。以上清单上的所有 gems 皆经测试，处于活跃开发阶段，有社群以及代码的质量很高。
 
